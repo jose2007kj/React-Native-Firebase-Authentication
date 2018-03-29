@@ -1,5 +1,13 @@
 **React Native firebase starter with login,signup,logout**
-
+* update index.js file with your firebase config
+ > firebase.initializeApp ({ 
+    apiKey: "your key",
+            authDomain: "your key",
+            databaseURL: "your key",
+            projectId: "your key",
+            storageBucket: "your key",
+            messagingSenderId: "your key"
+});
 
 * npm install #for installing all packages
 * react-native upgrade #to add android/ios folders
