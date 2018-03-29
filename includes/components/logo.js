@@ -12,7 +12,7 @@ export default class Logo extends Component<{}> {
 			<View style={styles.container}>
 				<Image  style={{width:200, height: 80}}
           			source={require('../images/logo.png')}/>
-          		<Text style={styles.logoText}>Welcome to Cubet Techno Labs</Text>	
+          		<Text style={styles.logoText}>Welcome to jose2007kj</Text>	
   			</View>
 			)
 	}

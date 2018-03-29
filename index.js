@@ -19,12 +19,12 @@ export default class Initial extends Component {
 
     if (!firebase.apps.length) {
   firebase.initializeApp ({ 
-    apiKey: "AIzaSyCkAgzVknjf7U2lmm7uHgH8KIA5dwiV3GU",
-            authDomain: "cubet-techno-labs.firebaseapp.com",
-            databaseURL: "https://cubet-techno-labs.firebaseio.com",
-            projectId: "cubet-techno-labs",
-            storageBucket: "cubet-techno-labs.appspot.com",
-            messagingSenderId: "1075832399929"
+    apiKey: "your key",
+            authDomain: "your key",
+            databaseURL: "your key",
+            projectId: "your key",
+            storageBucket: "your key",
+            messagingSenderId: "your key"
   });
 }
     // Firebase.initialise();
@@ -102,4 +102,4 @@ export default class Initial extends Component {
 
 }
 
-AppRegistry.registerComponent("CubetTech", () => Initial);
+AppRegistry.registerComponent("jose2007kj", () => Initial);
