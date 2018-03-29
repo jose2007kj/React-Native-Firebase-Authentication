@@ -1,7 +1,7 @@
 **React Native firebase starter with login,signup,logout**
 
 
-*npm install #for installing all packages
+* npm install #for installing all packages
 *react-native upgrade #to add android/ios folders
 *then create a folder assets inside android/app/src/main
 *then run this command
