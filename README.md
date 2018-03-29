@@ -1,4 +1,7 @@
 **React Native firebase starter with login,signup,logout**
+* I combined 
+ * [Firebase-ReactNative](https://github.com/JamesMarino/Firebase-ReactNative)
+ * [React-native-login-register-navigation-example](https://github.com/winit30/React-native-login-register-navigation-example)
 * update index.js file with your firebase config
  > firebase.initializeApp ({ 
     apiKey: "your key",
